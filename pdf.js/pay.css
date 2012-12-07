@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+*{ margin:0px; padding:0px; list-style-type: none;}
+a, img,input{ border: 0;}
+.pay{background:url(texture.png); width:1024px; height:768px;}
